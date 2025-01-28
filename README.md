@@ -1,1 +1,1 @@
-# BOT-SNIPER
+# ProfitHunter
